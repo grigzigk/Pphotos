@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         //start the code from here
         setTitle("Image Button Function");
 
+
         //Images from Serres
         String url1 = "https://www.kastra.eu/pics/serres12.jpg";
         String url2 = "https://foititisonline.gr/wp-content/uploads/2018/03/koilada-serrwn2.jpg";
